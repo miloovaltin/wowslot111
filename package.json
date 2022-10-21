@@ -1,16 +1,16 @@
 {
-"name": "wowslot111",
-"theme": "wow slot111",
-"version": "8.6.9",
-"description": "wow slot111 ทางเข้าเว็บไซต์พนันเว็บตรง ไม่มีขั้นต่ำ รับเงินเครดิตฟรี",
-"keywords": [
-"wow slot111",
-"wow slot111 เครดิตฟรี",
-"wow slot111 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/wowslot111",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "wowslot111",
+  "theme": "wow slot111",
+  "version": "8.7.0",
+  "description": "wow slot111 ทางเข้าเว็บไซต์พนันเว็บตรง ไม่มีขั้นต่ำ รับเงินเครดิตฟรี",
+  "keywords": [
+    "wow slot111",
+    "wow slot111 เครดิตฟรี",
+    "wow slot111 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/wowslot111",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
